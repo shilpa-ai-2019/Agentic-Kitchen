@@ -1,0 +1,10 @@
+[theme]
+base="light"
+backgroundColor="#f5f4e7"
+
+[theme.sidebar]
+backgroundColor="#cdc9a1"
+secondaryBackgroundColor="#f5f4e7"
+primaryColor="#ff00ff"
+showWidgetBorder=true
+borderColor="#817714"
