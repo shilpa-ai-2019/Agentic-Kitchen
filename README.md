@@ -1,4 +1,4 @@
- # AgenticKitchen
+ # Agentic Kitchen
 **Agentic SwayampakGhar(स्वयंपाकघर)** - Your own multicuisine culinary AI assistant. Eat Healthy, Stay Healthy!
 
 Our goal is to help you master meal prep with these tips for planning, cooking, and storing nutritious meals that save time and help you stay on track with your health goals. 🌱
