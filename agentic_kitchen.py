@@ -128,8 +128,10 @@ def generate(userInputDictionary):
     - Provide healthy and hygienic cooking and storage tips: {provideTips1}
 
     Consider the above preferences as applicable and recommend healthy and easy to make recipes. Provide recipes in clear, step-by-step format, including approximate cooking time and how many people the meal should serve.
-    Add emojis related to the recipes and cuisines where possible to make it more visually appealing.
+    Add emojis related to the recipes and cuisines to make it more visually appealing.
     Provide new recipes every time.
+    Provide food recipe's sustainability footprint for each recipe and it's ingredients.
+    Include tips on how to make cooking more sustainable and reduce food waste, where relevant.
     Ocassionally, you can also provide short interesting story OR fun fact related to any recipe OR some other engaging content like quotes about cooking, as a suprise element for the user.
     """
     logger.info("Prompt Text Template: " + promptTextTemplate)
