@@ -1,6 +1,8 @@
  # Agentic Kitchen
 **Agentic SwayampakGhar(स्वयंपाकघर)** - Your own multicuisine culinary AI assistant. Eat Healthy, Stay Healthy!
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-kitchen.streamlit.app/)
+
 Our goal is to help you master meal prep with these tips for planning, cooking, and storing nutritious meals that save time and help you stay on track with your health goals. 🌱
 
 🎥 **Demo** - https://youtu.be/7t2tSxECepM 
