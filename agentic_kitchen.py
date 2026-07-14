@@ -332,14 +332,14 @@ def sidebarFoodPrefFormControls():
     
 def additional_info_with_Feedback_UPIPayPal_PrivacyNote_Disclaimer():
     st.markdown("---")
-    with st.expander("⛶ Buy me a cup of tea! ☕️", expanded=True):
+    with st.expander("⛶ Buy me a cup of tea! ☕️", expanded=False):
         st.caption("If you find this app helpful, consider buying me a cup of tea! ☕️ धन्यवाद!")
         with st.expander("🌏 PayPal", expanded=True):
             # TODO: Limitation: yet not able to hide fullscreen option on hovering the image of st.image, need to find a workaround for that to improve user experience
             st.image("images/paypal_qr.jpg")
-        with st.expander("🇮🇳 UPI", expanded=True):
+        with st.expander("🇮🇳 UPI", expanded=False):
             st.image("images/upi_qr.jpg")
-    with st.expander("Feedback ✍️💡", expanded=True):
+    with st.expander("Feedback ✍️💡", expanded=False):
         st.caption("Got feedback or an idea for a new agentic AI project? We’d love to hear it — just click the feedback button!")
         contact_email = "agentic.swayampakghar@gmail.com"
         subject = "Feedback: Agentic SwayampakGhar(स्वयंपाकघर) App"
